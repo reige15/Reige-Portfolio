@@ -1,4 +1,4 @@
-# Reige-Repository
+# Reige-Portfolio
 This is my Public Repository for Telling Stories with Data Fall 2020 Mini 2
 
 
