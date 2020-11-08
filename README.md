@@ -12,14 +12,22 @@ I hope that this course will help me more preceisely visual data and tell my sto
 
 
 # Assignment 2
-General Government Debt 
-From 2000- 2018 debt to GDP in 30 countries has varied greatly. Below is a representation and data:
+## General Government Debt 
+Description: From 2000- 2018 debt to GDP in 30 countries has varied greatly. The chart below shows each country's Debt-to-GDP ratio and data:
 <div class="flourish-embed flourish-chart" data-src="visualisation/4282710"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Debt-to-GDP Ratio by Country 
+## Debt-to-GDP Ratio by Country 
 
-The debt to GDP ratio in each of the 30 countries has been vast and fast growing for some. Using this chart, we are able to see how th GDP to debt ratio has changed year over year bu country. 
+Description: The debt-to-GDP ratio in each of the 30 countries has been vast and fast growing for some. Using this chart, we are able to see how th GDP to debt ratio has changed year over year bu country. 
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4283098"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
+## Debt-to-GDP Ratio Comparative and Broken-out by Country 
+Description: The line chart below shows how the debt-to-GDP ratio has changed annually by country and also comparatively to each other. 
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/4283401"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## The different methods of visualization 
+Using the same data with multiple methods of visualization, I was able to see how different visualizations can convey the same data in many ways to show the same data in different ways. Within the first chart, having the debt-to-GDP ratio broken out by country allowed for a comparative picture, but also can be overwhelming to the viewer. The use of the blue/purple color against the grey allowed for a stark comparison. However, I do think this chart and the color I picked does not completely align with the message, I tried to use red instead but then it looked too intrusive. 
