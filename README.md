@@ -12,6 +12,7 @@ I hope that this course will help me more preceisely visual data and tell my sto
 
 
 # Assignment 2
+[Assignment 2](/reige.md)
 ## General Government Debt 
 
 <iframe src="https://data.oecd.org/chart/69H7" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69H7" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
