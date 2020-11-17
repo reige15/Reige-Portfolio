@@ -14,4 +14,4 @@ I hope that this course will help me more preceisely visual data and tell my sto
 # Assignment 2
 [Assignment 2](/reigedataviz1.md/)
 # Assignment 3 & 4
-[Assignment 2](/reigedataviz2.md/)
+[Assignment 3 & 4](/reigedataviz2.md/)
