@@ -15,7 +15,10 @@ I hope that this course will help me more preceisely visual data and tell my sto
 [Assignment 2](/reigedataviz1.md/)
 # Assignment 3 & 4
 [Assignment 3 & 4](/reigedataviz2.md/)
-# Final Project Proccess
-[Final Project Process](/final_project_Reige.md/)
+# Final Project Proccess: 
+[Final Project Part I(/Final-Project-Part-I.md/)
+[Final Project Part II(/Final-Project-Part-II.md/)
+[Final Project Part III(/final_project_Reige.md/)
+
 # Final Project Product
 [Final Project Product](/Final-Project.md/)
