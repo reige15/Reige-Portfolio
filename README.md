@@ -16,6 +16,7 @@ I hope that this course will help me more preceisely visual data and tell my sto
 
 # Assignment 3 & 4
 [Assignment 3 & 4](/reigedataviz2.md/)
+
 # Final Project Proccess: 
 ## Part I
 [Final Project Part I](/Final-Project-Part-I.md/)
