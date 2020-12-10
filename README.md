@@ -17,13 +17,13 @@ I hope that this course will help me more preceisely visual data and tell my sto
 [Assignment 3 & 4](/reigedataviz2.md/)
 # Final Project Proccess: 
 ## Part 1
-[Final Project Part I(/final-project-part-I.md/)
+[Final Project Part I](/final-project-part-I.md/)
 
 ## Part II
-[Final Project Part II(/final-project-part-II.md/)
+[Final Project Part II](/final-project-part-II.md/)
 
 ## Part III
-[Final Project Part III(/final_project_Reige.md/)
+[Final Project Part III](/final_project_Reige.md/)
 
 # Final Project Product
 [Final Project Product](/Final-Project.md/)
